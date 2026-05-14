@@ -191,7 +191,7 @@ Raja ezzakiya D
 B.Sc Information Technology
 Data Analytics & Fraud Analytics Enthusiast
 
-🔗 GitHub: (Add your GitHub link here)
+🔗 GitHub: (README.md)
 🔗 LinkedIn: (www.linkedin.com/in/rajaezzakiya)
 
 ⭐ Feel free to explore this repository and provide feedback.
