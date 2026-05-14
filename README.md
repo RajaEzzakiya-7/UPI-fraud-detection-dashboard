@@ -191,7 +191,7 @@ Raja ezzakiya D
 B.Sc Information Technology
 Data Analytics & Fraud Analytics Enthusiast
 
-🔗 GitHub: (README.md)
+🔗 GitHub: (https://github.com/RajaEzzakiya-7/UPI-fraud-detection-dashboard)
 🔗 LinkedIn: (www.linkedin.com/in/rajaezzakiya)
 
 ⭐ Feel free to explore this repository and provide feedback.
